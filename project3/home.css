@@ -1,0 +1,51 @@
+body
+   {
+    margin: 0;
+    padding: 0;
+    background-color:#1c1b1b;
+    }
+header{
+    background-color: #666;
+    color: orange;
+    position:absolute;
+    left: 35%;
+    text-align: center;
+    text-decoration: underline;
+    width: 28%;
+    top: 12%;
+       }
+section {
+          background-color: #666;
+          color: aliceblue;
+          position: absolute;
+          left: 35%;
+          width:28%;
+          text-align: center;
+          top:30%;
+          height:600px;
+       }
+#button{
+    margin: 10%;
+       }
+input[type="button"]{
+                       width:20%;
+                       padding: 2%;
+                       font-size: 40px;
+                       height: 100px;
+                       text-align: center;
+                       margin: 5%;
+                       border-radius: 10px;
+                    }
+button{
+    width: 30%;
+    height: 40px;
+    font-family:fantasy;
+    font-size: 20px;
+    border-radius: 10px;
+      }
+.cross{
+    color: red;
+      }
+.zero{
+    color: green;
+     }
